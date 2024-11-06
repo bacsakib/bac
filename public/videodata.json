@@ -1,0 +1,39 @@
+[
+    {
+      "class_id": 1,
+      "classname": "class-1",
+      "classtitle": "Introduction to Vider Editing",
+      "description": "This class provides an introduction to fundamental algebraic concepts such as equations, inequalities, and functions.",
+      "importantlinks": [
+        "https://example.com/syllabus",
+        "https://example.com/additional-resources"
+      ],
+      "img": "https://example.com/images/algebra.jpg",
+      "videolink": "https://www.youtube.com/embed/Yxfe7XMWIeI?si=TZ8lpVRUDghwZj-M"
+    },
+    {
+      "class_id": 2,
+      "classname": "class-2",
+      "classtitle": "World History: Ancient Civilizations",
+      "description": "Explore the rise and fall of ancient civilizations from around the world, including Mesopotamia, Egypt, Greece, and Rome.",
+      "importantlinks": [
+        "https://example.com/syllabus",
+        "https://example.com/additional-resources"
+      ],
+      "img": "https://example.com/images/history.jpg",
+      "videolink": "https://www.youtube.com/watch?v=9c9xZm6HHaw"
+    },
+    {
+      "class_id": 3,
+      "classname": "class-3",
+      "classtitle": "Introduction to Cellular Biology",
+      "description": "Learn about the basic principles of cellular biology, including cell structure, function, and processes.",
+      "importantlinks": [
+        "https://example.com/syllabus",
+        "https://example.com/additional-resources"
+      ],
+      "img": "https://example.com/images/biology.jpg",
+      "videolink": "https://www.youtube.com/watch?v=_JMXlCf4YCA"
+    }
+  ]
+  
