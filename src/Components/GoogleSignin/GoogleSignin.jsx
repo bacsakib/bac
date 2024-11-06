@@ -22,7 +22,7 @@ const GoogleSignin = () => {
                 console.log(res.data)
                 Swal.fire({
                     title: "Login successfully",
-                    text: "Welcome to Motion Boss",
+                    text: "Welcome to Bdcalling Academy",
                     icon: "success",
                     timer: 2000
                 });

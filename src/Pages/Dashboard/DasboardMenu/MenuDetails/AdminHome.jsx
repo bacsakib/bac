@@ -32,7 +32,7 @@ const AdminHome = () => {
     return (
         <div>
             <Helmet>
-                <title>Motion Boss | Admin Home </title>
+                <title>Bdcalling Academy | Admin Home </title>
             </Helmet>
             <div className="stats shadow flex flex-col md:flex-row gap-8">
 

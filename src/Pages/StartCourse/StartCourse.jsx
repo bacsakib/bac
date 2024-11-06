@@ -45,7 +45,7 @@ const Course = () => {
     return (
         <div>
             <Helmet>
-                <title>Motion Boss | মোশন গ্রাফিক্স </title>
+                <title>Bdcalling Academy | মোশন গ্রাফিক্স </title>
             </Helmet>
             <div className=" breadcrumbs text-xl my-2 pl-2 w-10/12 mx-auto  ">
                 <ul>

@@ -27,7 +27,7 @@ const CourseDetails = () => {
     return (
         <div >
             <Helmet>
-                <title>Motion Boss | Course Details </title>
+                <title>Bdcalling Academy | Course Details </title>
             </Helmet>
 
             <div className='bg-gradient-to-r  from-cyan-50 to-blue-50 py-4'>

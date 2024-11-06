@@ -23,7 +23,7 @@ const Login = () => {
             console.log(user);
             Swal.fire({
                 title: "Login successfully",
-                text: "Welcome to Motion Boss",
+                text: "Welcome to Bdcalling Academy",
                 icon: "success",
                 
                 timer: 2000
@@ -45,7 +45,7 @@ const Login = () => {
     return (
         <div>
             <Helmet>
-                <title>Motion Boss | Login </title>
+                <title>Bdcalling Academy | Login </title>
             </Helmet>
             <div className="hero pt-12 pb-40 bg-base-200">
                 <div className="card shrink-0 w-full max-w-sm shadow-2xl bg-base-100">

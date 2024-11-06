@@ -35,7 +35,7 @@ const Courses = () => {
     return (
         <div className="py-8 bg-gradient-to-l from-cyan-50 to-blue-100  pb-32 ">
             <Helmet>
-                <title>Motion Boss | Courses</title>
+                <title>Bdcalling Academy | Courses</title>
             </Helmet>
             <TopTite></TopTite>
       

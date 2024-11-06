@@ -49,7 +49,7 @@ const MyCart = () => {
     return (
         <div>
             <Helmet>
-                <title>Motion Boss | Cart </title>
+                <title>Bdcalling Academy | Cart </title>
             </Helmet>
             <div className="flex justify-between items-center pr-6">
                 <div className="text-xl flex items-center gap-4">
